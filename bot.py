@@ -1,4 +1,4 @@
-##MS-TAMIL-BOTZ
+##MS-TAMIL-BOTz
 
 import logging
 import logging.config
