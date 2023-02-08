@@ -147,10 +147,7 @@ python3 bot.py
  
  - ❤️ Thank you [MrMalik](https://github.com/mrmalikoffl) for helping us in this journey ❤️.
  - ❤️ From the side of [MrMalik](https://github.com/mrmalikoffl) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
- - ❤️ Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
- - ❤️ Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
- - ❤️ Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
- - ❤️ Thanks To All Everyone In This Journey
+ - ❤️ Thanks To All In This Journey.
 
 🌟 𝐍𝐨𝐭𝐞
 
