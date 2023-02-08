@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>𝘿ᴇᴘᴏʟʏ 𝙏ᴏ 𝙍ᴇɴᴅᴇʀ</summary>
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙍𝙚𝙣𝙙𝙚𝙧</summary>
 <p>
 <br>
 <a href="https://dashboard.render.com/select-repo?type=web">
