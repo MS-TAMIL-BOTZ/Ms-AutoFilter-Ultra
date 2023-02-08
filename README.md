@@ -37,15 +37,15 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 
 🌟 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
-* 💥 `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* 💥 `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* 💥 `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* 💥 `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* 💥 `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* 💥 `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
-* 💥 `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
-* 💥 `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
-* 💥 `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* 💥 `𝘉𝘖𝘛_𝘛𝘖𝘒𝘌𝘕`: 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢 𝘣𝘰𝘵 𝘶𝘴𝘪𝘯𝘨 [@𝘉𝘰𝘵𝘍𝘢𝘵𝘩𝘦𝘳](𝘩𝘵𝘵𝘱𝘴://𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮.𝘥𝘰𝘨/𝘉𝘰𝘵𝘍𝘢𝘵𝘩𝘦𝘳), 𝘢𝘯𝘥 𝘨𝘦𝘵 𝘵𝘩𝘦 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘈𝘗𝘐 𝘵𝘰𝘬𝘦𝘯. 
+* 💥 `𝘈𝘗𝘐_𝘐𝘋`: 𝘎𝘦𝘵 𝘵𝘩𝘪𝘴 𝘷𝘢𝘭𝘶𝘦 𝘧𝘳𝘰𝘮 [𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮.𝘰𝘳𝘨](𝘩𝘵𝘵𝘱𝘴://𝘮𝘺.𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮.𝘰𝘳𝘨/𝘢𝘱𝘱𝘴) 
+* 💥 `𝘈𝘗𝘐_𝘏𝘈𝘚𝘏`: 𝘎𝘦𝘵 𝘵𝘩𝘪𝘴 𝘷𝘢𝘭𝘶𝘦 𝘧𝘳𝘰𝘮 [𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮.𝘰𝘳𝘨](𝘩𝘵𝘵𝘱𝘴://𝘮𝘺.𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮.𝘰𝘳𝘨/𝘢𝘱𝘱𝘴)  
+* 💥 `𝘊𝘏𝘈𝘕𝘕𝘌𝘓𝘚`: 𝘜𝘴𝘦𝘳𝘯𝘢𝘮𝘦 𝘰𝘳 𝘐𝘋 𝘰𝘧 𝘤𝘩𝘢𝘯𝘯𝘦𝘭 𝘰𝘳 𝘨𝘳𝘰𝘶𝘱. 𝘚𝘦𝘱𝘢𝘳𝘢𝘵𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘐𝘋𝘴 𝘣𝘺 𝘴𝘱𝘢𝘤𝘦  
+* 💥 `𝘈𝘋𝘔𝘐𝘕𝘚`: 𝘜𝘴𝘦𝘳𝘯𝘢𝘮𝘦 𝘰𝘳 𝘐𝘋 𝘰𝘧 𝘈𝘥𝘮𝘪𝘯. 𝘚𝘦𝘱𝘢𝘳𝘢𝘵𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘈𝘥𝘮𝘪𝘯𝘴 𝘣𝘺 𝘴𝘱𝘢𝘤𝘦  
+* 💥 `𝘋𝘈𝘛𝘈𝘉𝘈𝘚𝘌_𝘜𝘙𝘐`: [𝘮𝘰𝘯𝘨𝘰𝘋𝘉](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘮𝘰𝘯𝘨𝘰𝘥𝘣.𝘤𝘰𝘮) 𝘜𝘙𝘐. 𝘎𝘦𝘵 𝘵𝘩𝘪𝘴 𝘷𝘢𝘭𝘶𝘦 𝘧𝘳𝘰𝘮 [𝘮𝘰𝘯𝘨𝘰𝘋𝘉](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘮𝘰𝘯𝘨𝘰𝘥𝘣.𝘤𝘰𝘮). 𝘍𝘰𝘳 𝘮𝘰𝘳𝘦 𝘩𝘦𝘭𝘱 𝘸𝘢𝘵𝘤𝘩 𝘵𝘩𝘪𝘴 [𝘷𝘪𝘥𝘦𝘰](𝘩𝘵𝘵𝘱𝘴://𝘺𝘰𝘶𝘵𝘶.𝘣𝘦/𝘩9𝘘𝘫𝘚𝘚𝘮𝘬5𝘵𝘸)  
+* 💥 `𝘋𝘈𝘛𝘈𝘉𝘈𝘚𝘌_𝘕𝘈𝘔𝘌`: 𝘕𝘢𝘮𝘦 𝘰𝘧 𝘵𝘩𝘦 𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦 𝘪𝘯 [𝘮𝘰𝘯𝘨𝘰𝘋𝘉](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘮𝘰𝘯𝘨𝘰𝘥𝘣.𝘤𝘰𝘮). 𝘍𝘰𝘳 𝘮𝘰𝘳𝘦 𝘩𝘦𝘭𝘱 𝘸𝘢𝘵𝘤𝘩 𝘵𝘩𝘪𝘴 [𝘷𝘪𝘥𝘦𝘰](𝘩𝘵𝘵𝘱𝘴://𝘺𝘰𝘶𝘵𝘶.𝘣𝘦/𝘩9𝘘𝘫𝘚𝘚𝘮𝘬5𝘵𝘸)  
+* 💥 `𝘋𝘈𝘛𝘈𝘉𝘈𝘚𝘌_𝘕𝘈𝘔𝘌`: 𝘕𝘢𝘮𝘦 𝘰𝘧 𝘵𝘩𝘦 𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦 𝘪𝘯 [𝘮𝘰𝘯𝘨𝘰𝘋𝘉](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘮𝘰𝘯𝘨𝘰𝘥𝘣.𝘤𝘰𝘮). 𝘍𝘰𝘳 𝘮𝘰𝘳𝘦 𝘩𝘦𝘭𝘱 𝘸𝘢𝘵𝘤𝘩 𝘵𝘩𝘪𝘴 [𝘷𝘪𝘥𝘦𝘰](𝘩𝘵𝘵𝘱𝘴://𝘺𝘰𝘶𝘵𝘶.𝘣𝘦/𝘩9𝘘𝘫𝘚𝘚𝘮𝘬5𝘵𝘸)  
+* 💥 `𝘓𝘖𝘎_𝘊𝘏𝘈𝘕𝘕𝘌𝘓` : 𝘈 𝘤𝘩𝘢𝘯𝘯𝘦𝘭 𝘵𝘰 𝘭𝘰𝘨 𝘵𝘩𝘦 𝘢𝘤𝘵𝘪𝘷𝘪𝘵𝘪𝘦𝘴 𝘰𝘧 𝘣𝘰𝘵. 𝘔𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘣𝘰𝘵 𝘪𝘴 𝘢𝘯 𝘢𝘥𝘮𝘪𝘯 𝘪𝘯 𝘵𝘩𝘦 𝘤𝘩𝘢𝘯𝘯𝘦𝘭.
 
 🌟 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
