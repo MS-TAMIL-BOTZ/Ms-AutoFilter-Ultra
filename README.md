@@ -49,32 +49,32 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 
 🌟 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
-* 💥 `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* 💥 `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* 💥 Check [info.py](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/info.py) for more
+* 💥 `𝘗𝘐𝘊𝘚`: 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘱𝘩 𝘭𝘪𝘯𝘬𝘴 𝘰𝘧 𝘪𝘮𝘢𝘨𝘦𝘴 𝘵𝘰 𝘴𝘩𝘰𝘸 𝘪𝘯 𝘴𝘵𝘢𝘳𝘵 𝘮𝘦𝘴𝘴𝘢𝘨𝘦.( 𝘔𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘪𝘮𝘢𝘨𝘦𝘴 𝘤𝘢𝘯 𝘣𝘦 𝘶𝘴𝘦𝘥 𝘴𝘦𝘱𝘢𝘳𝘢𝘵𝘦𝘥 𝘣𝘺 𝘴𝘱𝘢𝘤𝘦 )  
+* 💥 `𝘍𝘐𝘓𝘌_𝘚𝘛𝘖𝘙𝘌_𝘊𝘏𝘈𝘕𝘕𝘌𝘓`: 𝘊𝘩𝘢𝘯𝘯𝘦𝘭 𝘧𝘳𝘰𝘮 𝘸𝘦𝘳𝘦 𝘧𝘪𝘭𝘦 𝘴𝘵𝘰𝘳𝘦 𝘭𝘪𝘯𝘬𝘴 𝘰𝘧 𝘱𝘰𝘴𝘵𝘴 𝘴𝘩𝘰𝘶𝘭𝘥 𝘣𝘦 𝘮𝘢𝘥𝘦.𝘚𝘦𝘱𝘢𝘳𝘢𝘵𝘦 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘐𝘋𝘴 𝘣𝘺 𝘴𝘱𝘢𝘤𝘦  
+* 💥 𝘊𝘩𝘦𝘤𝘬 [𝘪𝘯𝘧𝘰.𝘱𝘺](𝘩𝘵𝘵𝘱𝘴://𝘨𝘪𝘵𝘩𝘶𝘣.𝘤𝘰𝘮/𝘈𝘔-𝘙𝘖𝘉𝘖𝘛𝘚/𝘈𝘥𝘷𝘈𝘯𝘶𝘳𝘢𝘨/𝘣𝘭𝘰𝘣/𝘮𝘢𝘪𝘯/𝘪𝘯𝘧𝘰.𝘱𝘺) 𝘧𝘰𝘳 𝘮𝘰𝘳𝘦
 
 🌟 𝐄𝐱𝐭𝐫𝐚 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
-* 💥 `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
-* 💥 `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
-* 💥 `SELF_DELETE`: True if SELF_DELETE is On, False if Off
-* 💥 `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
-* 💥 `START_TXT`: Enter Your Start Message
-* 💥 `ABOUT_TXT`: Enter Your About Message 
+* 💥 `𝘜𝘙𝘓_𝘚𝘏𝘖𝘙𝘛𝘌𝘕𝘙_𝘞𝘌𝘉𝘚𝘐𝘛𝘌`: 𝘜𝘙𝘓 𝘚𝘩𝘰𝘳𝘵𝘦𝘯𝘦𝘳 𝘞𝘦𝘣𝘴𝘪𝘵𝘦 𝘓𝘪𝘯𝘬 ( 𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘩𝘵𝘵𝘱𝘴://)  
+* 💥 `𝘜𝘙𝘓_𝘚𝘏𝘖𝘙𝘛𝘕𝘌𝘙_𝘞𝘌𝘉𝘚𝘐𝘛𝘌_𝘈𝘗𝘐`: 𝘜𝘙𝘓 𝘚𝘩𝘰𝘳𝘵𝘦𝘯𝘦𝘳 𝘞𝘦𝘣𝘴𝘪𝘵𝘦 𝘈𝘗𝘐 𝘬𝘦𝘺  
+* 💥 `𝘚𝘌𝘓𝘍_𝘋𝘌𝘓𝘌𝘛𝘌`: 𝘛𝘳𝘶𝘦 𝘪𝘧 𝘚𝘌𝘓𝘍_𝘋𝘌𝘓𝘌𝘛𝘌 𝘪𝘴 𝘖𝘯, 𝘍𝘢𝘭𝘴𝘦 𝘪𝘧 𝘖𝘧𝘧  
+* 💥 `𝘚𝘌𝘓𝘍_𝘋𝘌𝘓𝘌𝘛𝘌_𝘚𝘌𝘊𝘖𝘕𝘋𝘚`: 𝘌𝘯𝘵𝘦𝘳 𝘚𝘦𝘤𝘰𝘯𝘥𝘴 𝘵𝘰 𝘣𝘦 𝘚𝘌𝘓𝘍_𝘋𝘌𝘓𝘌𝘛𝘌   
+* 💥 `𝘚𝘛𝘈𝘙𝘛_𝘛𝘟𝘛`: 𝘌𝘯𝘵𝘦𝘳 𝘠𝘰𝘶𝘳 𝘚𝘵𝘢𝘳𝘵 𝘔𝘦𝘴𝘴𝘢𝘨𝘦  
+* 💥 `𝘈𝘉𝘖𝘜𝘛_𝘛𝘟𝘛`: 𝘌𝘯𝘵𝘦𝘳 𝘠𝘰𝘶𝘳 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦𝘴𝘴𝘢𝘨𝘦
 
 
 🌟 𝐃𝐞𝐩𝐥𝐨𝐲
 
 You can deploy this bot anywhere.
 
-<details><summary>Deploy To Koyeb</summary>
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙆𝙤𝙮𝙚𝙗</summary>
 <p>
 <br>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/mrmalikoffl/MsFilmFactoryV2&branch=master&name=MsFilmFactory_Bot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 </p>
 </details>
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙃𝙚𝙧𝙤𝙠𝙪</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/mrmalikoffl/MsFilmFactoryV2">
@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ </summary>
+<details><summary>𝘿ᴇᴘᴏʟʏ 𝙏ᴏ 𝙍ᴇɴᴅᴇʀ</summary>
 <p>
 <br>
 <a href="https://dashboard.render.com/select-repo?type=web">
@@ -92,7 +92,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
+<details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙑𝙋𝙎</summary>
 <p>
 <pre>
 git clone https://github.com/mrmalikoffl/MsFilmFactoryV2
